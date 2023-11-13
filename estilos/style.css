@@ -7,12 +7,12 @@ body {
     background-color: rgb(178, 105, 247);
 }
 
-main{ 
+main {
     background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5 px black; 
+    box-shadow: 3px 3px 5 px black;
 }
 
 h1 {
@@ -22,12 +22,12 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-color: blueviolet;
+    color: blueviolet;
 }
 
 img.lado {
     float: right;
-    
+
 }
 
 a {
@@ -37,6 +37,6 @@ a {
 }
 
 a:hover {
-text-decoration: underline;
-color: rgb(26, 26, 255);
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
 }
